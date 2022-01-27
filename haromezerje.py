@@ -22,3 +22,5 @@ for t in Tanulo.lista:
     print(t.nev)
 
 print(len(Tanulo.lista))
+
+print("AttilaMolnár")
